@@ -29,7 +29,8 @@
             android:contentDescription="@string/add"
             android:focusable="true"
             android:src="@drawable/add"
-            tools:ignore="TouchTargetSizeCheck" />
+            tools:ignore="TouchTargetSizeCheck"
+            android:alpha="0.75"/>
 
         <ImageView
             android:layout_width="30dp"
@@ -47,6 +48,7 @@
             android:contentDescription="@string/favorites"
             android:focusable="true"
             android:src="@drawable/archive"
-            tools:ignore="TouchTargetSizeCheck" />
+            tools:ignore="TouchTargetSizeCheck"
+            android:alpha="0.75"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
