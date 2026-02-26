@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Closet</string>
+    <string name="favorites">Favorites outfits</string>
+    <string name="add">Add new outfits</string>
 </resources>
